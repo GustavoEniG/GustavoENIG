@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**GustavoEniG/GustavoENIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ0MTV1dmc0ZGdzcDVybWN1czFwNHd3Y2ZjbGlvZGltZTN5YWc0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OP4C9oeeSVIrwgFNAk/giphy-downsized-large.gif" width="100"/> Olá, seja bem vindo(a) ao meu Github
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 Estudante de Sistemas de informação - Puc Minas Virtual
+
+- 👨‍💻 Atualmante estou aprendendo as seguintes linguagens
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+	
+
+
+ 
+# REDES SOCIAIS
+<div>
+<a href="https://discord.com/users/1065398966780440606" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href = "gustavocostang2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
